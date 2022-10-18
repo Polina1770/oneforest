@@ -1,0 +1,231 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap');
+body{
+    width: 100%;
+    height: 100%;
+    background: #E5E5E5;
+    font-family: 'Poppins';
+}
+.logo{
+    width: 1850px;
+    height: 750px;
+    background-image: url(../img/road-g9875459d1_1920\ 1.jpg);
+}
+.wrapper{
+    width: 1320px;
+    margin: 0 auto;
+}
+.pusik{
+    width: 386px;
+    height: 500px;
+    background-image: url(../img/iStock-1125646126\ 1.png);
+
+}
+a{
+    color: #FFFF;
+    text-decoration: none;
+    word-spacing: 50;
+}
+.nav{
+    
+    padding-left: 500px;
+    margin-top: -45px;
+    word-spacing: 20px;
+    font-weight: 600;
+    font-size: 15px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr; 
+    margin: 3rem;
+
+ }
+ .grid__cover__one{
+    background-color: #FFFF;
+    display: block;
+    width: 386px;
+    height: 196px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 2px;
+    margin-top: -130px;
+
+ }
+ .chill{
+    margin-left: 20px;
+ }
+ .cars{
+    padding-top: 22px;
+ }
+ .lang{
+    margin-top: -35px;
+    padding-left: 1200px;
+    color: #FFFF;
+    font-weight: 600;
+    font-size: 15px;
+ }
+ h1 {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 150%;
+    color: #FFFF;
+    padding-top: 100px;
+ }
+ .mini{
+    padding-top: 39px;
+    padding-left: 39px;
+ }
+ h2{
+    padding-top: -21px;
+    padding-left: 39px;
+    font-weight: 700;
+    font-size: 18px;
+    color: black;
+ }
+ .one{
+    padding-left: 39px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #B7B7B7;
+ }
+ h3{
+    padding-top: 75px;
+    padding-left: 50px;
+    font-weight: 700;
+    font-size: 30px;
+    letter-spacing: 0.15em;
+ }
+ .two{
+    padding-left: 50px; 
+    font-weight: 400;
+    font-size: 15px;
+    letter-spacing: 0.15em;
+    text-decoration-line: underline;
+}
+.crest{
+    padding-top: 175px;
+    padding-left: 140px;
+    
+}
+.first{
+    margin-top:-20px;
+    padding-left: 35px;
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: 0.23em;
+    color: #FFFF;
+    
+}
+.three{
+   font-weight: 700;
+   font-size: 20px;
+   letter-spacing: 0.23em;
+   line-height: 150%;
+}
+.block__one{
+   display: block;
+   background-color: #171616;
+   width: 1850px;
+   height: 665px;
+}
+.four{
+   font-weight: 700;
+   font-size: 30px;
+   letter-spacing: 0.15em;
+   padding-left: 40px;
+}
+.four2{
+   font-weight: 600;
+font-size: 15px;
+letter-spacing: 0.23em;
+color: #B7B7B7;
+padding-left: 40px;
+}
+.ten {
+   font-weight: 500;
+   font-size: 18px;
+   letter-spacing: 0.15em;
+   text-decoration-line: underline;
+   color: #FFFFFF;
+   padding-left: 40px;
+   padding-top: 50px;
+}
+.mech{
+   padding-left: 750px;
+   margin-top: -370px;
+}
+.BIG{
+   font-weight: 900;
+font-size: 148px;
+color: #000000;
+padding-left: 150px;
+margin-top: -35px;
+}
+.little{
+   font-weight: 600;
+font-size: 40px;
+letter-spacing: 0.15em;
+padding-left: 385px;
+margin-top : -185px;
+}
+.chill{
+   padding-top: 35px;
+}
+.block2{
+   display: block;
+   background-color: #171616;
+   width: 1850px;
+   height: 665px;
+}
+.contact{
+   font-weight: 700;
+font-size: 30px;
+letter-spacing: 0.15em;
+color: #FFFFFF;
+padding-top: 50px;
+padding-left:  10px;
+}
+.info {
+   color: #FFFF;
+   font-weight: 400;
+   font-size: 15px;
+   letter-spacing: 0.15em;
+   padding-bottom: 25px;
+   border-bottom: 1.2px solid rgba(255, 255, 255, 0.521);
+   width: 200px;
+}
+.infofour{
+   color: #FFFF;
+   font-weight: 400;
+   font-size: 15px;
+   letter-spacing: 0.15em;
+   padding-bottom: 2px;
+   border-bottom: 1.2px solid rgba(255, 255, 255, 0.521);
+   width: 200px;
+}
+.infofive{
+   color: #FFFF;
+   font-weight: 400;
+   font-size: 15px;
+   letter-spacing: 0.15em;
+   padding-bottom: 75px;
+   border-bottom: 1.2px solid rgba(255, 255, 255, 0.521);
+   width: 650px;
+   padding-top: 35px;
+}
+.last{
+   padding-left: 300px;
+   margin-top: -60px;
+}
+.phone{
+   padding-left: 300px;
+   margin-top: -70px;
+}
+.email{
+   padding-top: 20px;
+}
+.dushnila{
+ padding-top: 20px;
+}
+.under{
+   padding-left: 250px;
+}
